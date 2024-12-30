@@ -6,7 +6,7 @@ This repository is the official implementation of
 ## Installation Guide
 
 ### MuJoCo
-- Download [MuJoCo](https://mujoco.org/) version 2.1
+- Download [MuJoCo](https://mujoco.org/) version 2.1.0
 - Extract the downloaded `mujoco210` directory into `~/.mujoco/mujoco210`
 - Insert the following commands in `~/.bashrc`.
     ```
